@@ -55,6 +55,7 @@ namespace Taschenrechner
             else
             {
                 model.ErsteZahl = model.Resultat;
+                // TODO: Hier muss eine ähnliche Validierung stattfinden, wie bei den Ersteingaben
                 model.ZweiteZahl = Convert.ToDouble(eingabe);
             }
         }

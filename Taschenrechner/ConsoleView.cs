@@ -42,6 +42,7 @@ namespace Taschenrechner
                 }
             }
             while (model.AktuellerFehler == Fehler.GrenzwertUeberschreitung);
+            // Test
         }
 
         public void HoleEingabenFuerFortlaufendeBerechnung()

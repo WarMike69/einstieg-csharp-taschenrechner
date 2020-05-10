@@ -1,6 +1,7 @@
 ﻿namespace Taschenrechner
 {
 
+    // Erneuter Stash-Test
     public enum Fehler
     {
         Keiner,

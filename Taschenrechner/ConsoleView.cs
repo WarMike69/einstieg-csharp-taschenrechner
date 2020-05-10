@@ -43,6 +43,7 @@ namespace Taschenrechner
             }
             while (model.AktuellerFehler == Fehler.GrenzwertUeberschreitung);
             // Test
+            // Test - Nicht in Stash
         }
 
         public void HoleEingabenFuerFortlaufendeBerechnung()

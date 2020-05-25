@@ -1,4 +1,5 @@
 User Stories Taschenrechner
+Schitt Änderung
 
 User Story Vorlage: Als <Rolle/Anwendertyp> möchte ich <Ziel/Wunsch/Funktion>, um <Nutzen>
 
